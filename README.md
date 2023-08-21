@@ -1,4 +1,4 @@
-# VSU_Hostel_Management_System_Using_PHP_and_MySQL
+# VSU_Hostel_Management_System_Using_PHP
 vsu hostel management system project using PHP and My Sql for my college final year project in MSc(computer Science)
 
 This particular project deals with the problems on managing a hostel in vsu and avoids the problems which occur when carried manually.Identification of the drawbacks of the existing system leads to the designing of computerized system that will be compatible to the existing system with the system Which is more user friendly and more GUI oriented. We can improve the efficiency of the system, thus overcome the drawbacks of the existing system.
