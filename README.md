@@ -47,11 +47,13 @@ Back end: PHP, MySQL
 
 PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create dynamically generated web pages, in HTML, XML, or other document types, as per client request. PHP is open source software.
 Data Base MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
+
 Software Requirement(any one)
 WAMP Server
 XAMPP Server
 MAMP Server
 LAMP Server
+
 Xamp PHP 5.5 download link -  Click Here
 
 Installation Steps in XAMPP:
