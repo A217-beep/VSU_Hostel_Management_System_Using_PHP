@@ -49,12 +49,15 @@ PHP: Hypertext Preprocessor (PHP) is a technology that allows software developer
 Data Base MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
 
 Software Requirement(any one)
+
 WAMP Server
+
 XAMPP Server
+
 MAMP Server
+
 LAMP Server
 
-Xamp PHP 5.5 download link -  Click Here
 
 Installation Steps in XAMPP:
 
