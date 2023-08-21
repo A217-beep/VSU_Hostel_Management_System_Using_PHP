@@ -32,7 +32,8 @@ Student Module:
 7.Hostel details : user can see own hostel details
 8.Access log : User can see own login access log
 9.logout
-Here, Student/User can login and view room details and book hostel easily. User can change their password anytime. Admin can add/manage rooms, courses, students and many more. This simple project is done in PHP & It’s easy to operate and understand by users.The design is pretty simple and user won’t find it difficult to understand, use and navigate.
+
+Here, Student can login and view room details and book hostel easily. User can change their password anytime. Admin can add/manage rooms, courses, students and many more. This simple project is done in PHP & It’s easy to operate and understand by users.The design is pretty simple and user won’t find it difficult to understand, use and navigate.
 
 Language Used:	PHP5.6, PHP7.
 Brief overview of the technology:
@@ -51,6 +52,7 @@ WAMP Server
 XAMPP Server
 MAMP Server
 LAMP Server
+Xamp PHP 5.5 download link -  Click Here
 
 Installation Steps in XAMPP:
 
