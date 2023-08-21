@@ -77,6 +77,7 @@ Installation Steps in WAMP:
 3.  Save this total file with name of "hostel"
 4. Database Configuration
 Open phpmyadmin
+
 Create Database named hostel.
 Import database hostel.sql from downloaded folder(inside database)
 6. Open Your browser put inside "http://localhost/hostel/"
